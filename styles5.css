@@ -1,0 +1,17 @@
+body{
+    background-image: url('./assets/i4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text{
+    text-decoration: none;
+}
+
+
+
+.text-box{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    font-weight:bolder;
+    }
